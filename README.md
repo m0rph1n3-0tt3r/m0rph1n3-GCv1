@@ -38,7 +38,7 @@ Built for school, with a simple goal: make browsing and launching games feel eff
 | Feature | What it brings |
 | :--- | :--- |
 | Modern, minimal UI | A polished dark interface without unnecessary clutter. |
-| Game collection | Browse games from a visual card-based catalog. |
+| Large Game Collection | Browse a list of over 350+ games from a visual card-based catalog. |
 | Search | Find titles in the catalog quickly. |
 | Saved games | Keep selected games in a dedicated Saved section. |
 | Import tools | Add supported game content through the interface. |
