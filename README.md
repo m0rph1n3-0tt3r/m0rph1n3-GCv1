@@ -17,13 +17,13 @@ Sleek, modern, and intentionally simple.
 
 ## 🟢 Current Live Site
 
-[Launch m0rph1n3-GCv1 →](https://vn0e9runv20krjfvonwiejfovser2r3.run.place/)
+[Launch m0rph1n3-GCv1 →](https://cb109438yrxn91y238x012983yx.run.place/)
 
 ## Past / Dead Links
 
 | Status | Previous URL |
 | :---: | :--- |
-| 🔴 | |
+| 🟡 | https://vn0e9runv20krjfvonwiejfovser2r3.run.place/ |
 | 🔴 | |
 | 🔴 | |
 
