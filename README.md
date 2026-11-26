@@ -7,7 +7,7 @@
 A static HTML & Flash game site made for school.  
 Sleek, modern, and intentionally simple.
 
-`Current version: GCv1` · `Static site` · `HTML & Flash games`
+`Current version: GCv1 - Luna V1` · `Static site` · `HTML & Flash games`
 
 [Explore the project](#about) · [Get started](#getting-started) · [Connect with me](#connect)
 
