@@ -23,7 +23,7 @@ Sleek, modern, and intentionally simple.
 
 | Status | Previous URL |
 | :---: | :--- |
-| 🟡 | https://vn0e9runv20krjfvonwiejfovser2r3.run.place/ |
+| 🔴 | https://vn0e9runv20krjfvonwiejfovser2r3.run.place/ |
 | 🔴 | |
 | 🔴 | |
 
